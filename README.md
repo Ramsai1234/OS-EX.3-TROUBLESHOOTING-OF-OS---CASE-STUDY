@@ -11,7 +11,7 @@ To study the process of troubleshooting of Operating System.
 5)Verify full system functionality and if applicable implement preventive measures.
 6)Document Findings, action and outcomes
 
-PROCEDURE:
+## PROCEDURE:
 ## Step 1
 Identify the problem. OS problems can result from a combination of hardware, software, and network issues. Computer technicians must be able to analyze the problem and determine the cause of the error to repair the computer. This process is called troubleshooting. The first step in the troubleshooting process is to identify the problem.
 
@@ -67,7 +67,8 @@ Manufacturer FAQs
 Technical websites
 Newsgroups
 Computer manuals
-## Step 5: Verify Full System Functionality and Implement Preventive Measures After you have corrected the problem, verify full system functionality and, if applicable, implement preventive measures.
+## Step 5:
+Verify Full System Functionality and Implement Preventive Measures After you have corrected the problem, verify full system functionality and, if applicable, implement preventive measures.
 
 Shutdown the computer and restart it
 Check event logs to make sure there are no new warnings or error.
@@ -85,7 +86,7 @@ Document the time spent to resolve the problem
 
 ![image](https://github.com/Ramsai1234/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/94269989/e2bb6811-e386-4de9-8429-3e583d4fd56c)
 
-RESULT:
+## RESULT:
 Thus the process of troubleshooting of OS is studied.
 
 
